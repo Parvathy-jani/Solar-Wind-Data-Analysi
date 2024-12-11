@@ -1,4 +1,4 @@
-# Solar-Wind-Data-Analysi
+# Solar-Wind-Data-Analysis
 Solar Wind Data Analysis - Correlation Between Solar Wind Speed and Proton Density
 
 README
